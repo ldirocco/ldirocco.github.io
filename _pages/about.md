@@ -29,4 +29,4 @@ latest_posts:
 
 I am a Research Fellow at the Department of Computer Science of the University of Salerno. I received my PhD cum laude in Statistical Sciences from Sapienza University of Rome under the supervision of Prof. Umberto Ferraro Petrillo, where I developed scalable computational methods for large-scale genomics and bioinformatics, leading to several peer-reviewed publications (see the [Publications](/al-folio/publications/) page).
 
-My current research focuses on the development and application of machine learning and deep learning model for omics-data analysis and precision medicine. An overview of my ongoing research projects is available on the dedicated [Projects]/al-folio/projects/) page.
+My current research focuses on the development and application of machine learning and deep learning model for omics-data analysis and precision medicine. An overview of my ongoing research projects is available on the dedicated [Projects](/al-folio/projects/) page.
