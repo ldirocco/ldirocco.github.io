@@ -36,7 +36,7 @@ My research activity began in 2020 within a project on **Big Data software servi
 
 I further strengthened my expertise in HPC by attending specialized training courses at **CINECA**, which led to the opportunity to serve as **Principal Investigator of a Class C ISCRA HPC project**, focused on efficient genome inference methods on large-scale **pangenome graphs**.
 
-As a **research visitor** with the *Genome Data Science Group* at [**Bielefeld University**] (https://gds.techfak.uni-bielefeld.de/) headed by Prof. Dr. Alexander Schönhuth, I gained hands-on experience in applying **machine learning and deep learning techniques** to model and analyze DNA sequences.
+As a **research visitor** with the *Genome Data Science Group* at [Bielefeld University](https://gds.techfak.uni-bielefeld.de/) headed by Prof. Dr. Alexander Schönhuth, I gained hands-on experience in applying **machine learning and deep learning techniques** to model and analyze DNA sequences.
 
 My current research interests include:
 - HPC for Computational Genomics and Bioinformatics  

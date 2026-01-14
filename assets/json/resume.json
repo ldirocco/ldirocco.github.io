@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Lorenzo Di Rocco",
-    "label": "Computational Genomics Researcher",
+    "label": "Postdoc Researcher",
     "image": "",
-    "email": "lorenzo.dirocco@uniroma1.it",
-    "phone": "+39 347 795 3762",
+    "email": "lorenzo.dirocco@uniroma1.it, lorenzo.dirocco7@gmail.com",
     "url": "https://github.com/ldirocco",
     "summary": "Computational genomics researcher working on scalable bioinformatics, graph machine learning, and deep learning for omics data, with a strong focus on high-performance computing and precision medicine.",
     "location": {
