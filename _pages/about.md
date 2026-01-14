@@ -30,7 +30,7 @@ latest_posts:
 
 I am a Postdoctoral Researcher at the **Department of Computer Science, University of Salerno**, where I work on advanced computational methods for **genomics, bioinformatics, and precision medicine**.
 
-I received my **Ph.D. cum laude in Statistical Sciences** from *Sapienza University of Rome*, under the supervision of **Prof. Umberto Ferraro Petrillo**. My doctoral research focused on the development of **scalable and distributed computational frameworks** to tackle large-scale challenges in omics data analysis, resulting in several peer-reviewed publications (see the [Publications](/al-folio/publications/) page).
+I received my **Ph.D. cum laude in Statistical Sciences** from *Sapienza University of Rome*, under the supervision of Prof. Umberto Ferraro Petrillo. My doctoral research focused on the development of **scalable and distributed computational frameworks** to tackle large-scale challenges in omics data analysis. This work culminated in my Ph.D. thesis, [Scalable solutions for large-scale bioinformatics analysis: a critical study of Apache Spark applications in high-performance computational genomics](https://iris.uniroma1.it/handle/11573/1745835), and resulted in several peer-reviewed publications (see the [Publications](/publications/) page).
 
 My research activity began in 2020 within a project on **Big Data software services for decision support in Precision Medicine**, funded by the **European Institute of Innovation & Technology (EIT)**. During my Ph.D., I specialized in integrating **high-performance computing (HPC)** and **distributed computing paradigms** for complex bioinformatics pipelines.
 
@@ -43,4 +43,4 @@ My current research interests include:
 - Machine learning and deep learning for Omics Data  
 - Data-driven Methodologies for Health Informatics and Precision Medicine
 
-An overview of my ongoing research activities is available on the dedicated [Projects](/al-folio/projects/) page.
+An overview of my ongoing research activities is available on the dedicated [Projects](/projects/) page.
