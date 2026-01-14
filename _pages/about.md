@@ -8,7 +8,7 @@ profile:
   align: right
   image: ldirocco_prof_pic.JPG
   image_circular: false # crops the image to make it circular
-  image_size: 280px
+  image_size: 320px
   # more_info: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
@@ -28,10 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Fellow at the Department of Computer Science of the University of Salerno. I received my PhD cum laude in Statistical Sciences from Sapienza University of Rome under the supervision of Prof. Umberto Ferraro Petrillo, where I developed scalable computational methods for large-scale genomics and bioinformatics, leading to several peer-reviewed publications (see the [Publications](/al-folio/publications/) page).
-
-My current research focuses on the development and application of machine learning and deep learning model for omics-data analysis and precision medicine. An overview of my ongoing research projects is available on the dedicated [Projects](/al-folio/projects/) page.
-
 I am a Postdoctoral Researcher at the **Department of Computer Science, University of Salerno**, where I work on advanced computational methods for **genomics, bioinformatics, and precision medicine**.
 
 I received my **Ph.D. cum laude in Statistical Sciences** from *Sapienza University of Rome*, under the supervision of **Prof. Umberto Ferraro Petrillo**. My doctoral research focused on the development of **scalable and distributed computational frameworks** to tackle large-scale challenges in omics data analysis, resulting in several peer-reviewed publications (see the [Publications](/al-folio/publications/) page).
@@ -43,9 +39,8 @@ I further strengthened my expertise in HPC by attending specialized training cou
 As a **research visitor** with the *Genome Data Science Group* at **Bielefeld University**, I gained hands-on experience in applying **machine learning and deep learning techniques** to model and analyze DNA sequences.
 
 My current research interests include:
-- Machine learning and deep learning for omics data  
-- Scalable algorithms for genomics  
-- High-performance and distributed computing  
-- Precision medicine and data-driven biomedical research  
+- HPC for Computational Genomics and Bioinformatics  
+- Machine learning and deep learning for Omics Data  
+- Data-driven Methodologies for Health Informatics and Precision Medicine
 
 An overview of my ongoing research activities is available on the dedicated [Projects](/al-folio/projects/) page.
