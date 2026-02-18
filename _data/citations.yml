@@ -1,17 +1,17 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-02-18'
 papers:
   3KWkCX4AAAAJ:-f6ydRqryjwC:
     citations: 1
     title: A Distributed Workflow for Long Reads Self-correction
     year: '2024'
   3KWkCX4AAAAJ:2osOgNQ5qMEC:
-    citations: 10
+    citations: 12
     title: 'DIAMIN: a software library for the distributed analysis of large-scale molecular interaction networks'
     year: '2022'
   3KWkCX4AAAAJ:7PzlFSSx8tAC:
     citations: 2
-    title: Efficient and Scalable Alignment-Free Distributed Genotyping of SNPs and Short Indels
+    title: Efficient and scalable alignment-free distributed genotyping of snps and short indels
     year: '2025'
   3KWkCX4AAAAJ:9ZlFYXVOiuMC:
     citations: 1
@@ -19,7 +19,7 @@ papers:
     year: '2025'
   3KWkCX4AAAAJ:9yKSN-GCB0IC:
     citations: 3
-    title: Using software visualization to support the teaching of distributed programming
+    title: 'Using software visualization to support the teaching of distributed programming: LD Rocco et al.'
     year: '2023'
   3KWkCX4AAAAJ:HDshCWvjkbEC:
     citations: 0
@@ -42,12 +42,12 @@ papers:
     title: Enhancing Scalability of Distributed SNPs Calling Pipelines Using Cluster-Driven Partitioning Strategy.
     year: '2023'
   3KWkCX4AAAAJ:UeHWp8X0CEIC:
-    citations: 3
+    citations: 4
     title: Using knowledge graphs to model green investment opportunities
     year: '2023'
   3KWkCX4AAAAJ:Wp0gIr-vW9MC:
     citations: 4
-    title: A distributed approach for persistent homology computation on a large scale
+    title: 'A distributed approach for persistent homology computation on a large scale: R. Ceccaroni et al.'
     year: '2024'
   3KWkCX4AAAAJ:ZeXyd9-uunAC:
     citations: 0
