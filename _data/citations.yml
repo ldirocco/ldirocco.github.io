@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-06-12'
 papers:
   3KWkCX4AAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -10,7 +10,7 @@ papers:
     title: 'DIAMIN: a software library for the distributed analysis of large-scale molecular interaction networks'
     year: '2022'
   3KWkCX4AAAAJ:7PzlFSSx8tAC:
-    citations: 2
+    citations: 3
     title: Efficient and scalable alignment-free distributed genotyping of snps and short indels
     year: '2025'
   3KWkCX4AAAAJ:9ZlFYXVOiuMC:
