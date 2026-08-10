@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-10'
 papers:
   3KWkCX4AAAAJ:-f6ydRqryjwC:
     citations: 1
-    title: A Distributed Workflow for Long Reads Self-correction
+    title: A distributed workflow for long reads self-correction
     year: '2024'
   3KWkCX4AAAAJ:2osOgNQ5qMEC:
     citations: 12
@@ -11,7 +11,7 @@ papers:
     year: '2022'
   3KWkCX4AAAAJ:7PzlFSSx8tAC:
     citations: 3
-    title: Efficient and scalable alignment-free distributed genotyping of snps and short indels
+    title: Efficient and scalable alignment-free distributed genotyping of SNPs and short indels
     year: '2025'
   3KWkCX4AAAAJ:9ZlFYXVOiuMC:
     citations: 1
@@ -55,7 +55,7 @@ papers:
     year: '2025'
   3KWkCX4AAAAJ:_Qo2XoVZTnwC:
     citations: 0
-    title: A Scalable Distributed Workflow for Accelerating Long Reads Self-Correction
+    title: A scalable distributed workflow for accelerating long reads self-correction
     year: '2025'
   3KWkCX4AAAAJ:dhFuZR0502QC:
     citations: 0
@@ -71,7 +71,7 @@ papers:
     year: '2025'
   3KWkCX4AAAAJ:hFOr9nPyWt4C:
     citations: 4
-    title: 'Bridging llms and symbolic reasoning in educational qa systems: Insights from the xai challenge at ijcnn 2025'
+    title: 'Bridging LLMs and symbolic reasoning in educational QA systems: Insights from the XAI challenge at IJCNN 2025'
     year: '2025'
   3KWkCX4AAAAJ:qUcmZB5y_30C:
     citations: 1
