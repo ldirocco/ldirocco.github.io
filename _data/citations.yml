@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-19'
 papers:
   3KWkCX4AAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -62,7 +62,7 @@ papers:
     title: 'A flexible parametric approach to synthetic patients generation using health data: M. Cipriani et al.'
     year: '2025'
   3KWkCX4AAAAJ:e5wmG9Sq2KIC:
-    citations: 3
+    citations: 4
     title: 'PatientProfiler: building patient-specific signaling models from proteogenomic data'
     year: '2025'
   3KWkCX4AAAAJ:hC7cP41nSMkC:
